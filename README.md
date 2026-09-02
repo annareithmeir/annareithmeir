@@ -3,6 +3,7 @@
 # Anna Reithmeir
 
 PhD Candidate in Informatics at TUM and MCML with a background in computer vision, robotics, and parallel programming. 
+M. Sc. Informatics graduate at TUM.
 Currently developing physics-inspired, test-time adaptive DL methods for medical image registration and patient-specific models for endometriosis diagnosis.
 
 ## Research focus
