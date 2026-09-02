@@ -2,9 +2,8 @@
 
 # Anna Reithmeir
 
-I am a PhD Candidate in Informatics at the Chair of Computational Imaging and AI in Medicine @ Technical University of Munich (TUM) and Munich Center for Machine Learning (MCML).
-My background is B.Sc and M.Sc in Informatics at TUM with a focus on computer vision, robotics, parallel programming, and applied mathematics. 
-Currently, I develop physics-inspired test-time adaptive DL algorithms for medical image registration and a patient-specific computational model of the pelvis to support diagnosis and surgical planning for endometriosis.
+PhD Candidate in Informatics at TUM and MCML with a background in computer vision, robotics, and parallel programming. 
+Currently developing physics-inspired, test-time adaptive DL methods for medical image registration and patient-specific models for endometriosis diagnosis.
 
 ## Research focus
 
@@ -20,10 +19,11 @@ Currently, I develop physics-inspired test-time adaptive DL algorithms for medic
 |---|---|
 | [elastic-regularization-hypermorph](https://github.com/annareithmeir/elastic-regularization-hypermorph) | Learning physics-inspired regularization for medical image registration with hypernetworks |
 | [miccai2024-spatially-adaptive-elastic-hypermorph](https://github.com/annareithmeir/miccai2024-spatially-adaptive-elastic-hypermorph) | Data-Driven Tissue- and Subject-Specific Elastic Regularization for Medical Image Registration |
-| [AsRigidAsPossibleDeformer](https://github.com/annareithmeir/AsRigidAsPossibleDeformer) | Interactive C++ framework for as-rigid-as-possible (ARAP) mesh deformation |
 | [regularization-in-medical-image-registration](https://github.com/annareithmeir/regularization-in-medical-image-registration) | Overview of regularization techniques used in medical image registration |
 | [slicer-longitudinal-3d-data-viewer](https://github.com/annareithmeir/slicer-longitudinal-3d-data-viewer) | 3D Slicer module for visualizing longitudinal 3D medical imaging data |
+| [AsRigidAsPossibleDeformer](https://github.com/annareithmeir/AsRigidAsPossibleDeformer) | Interactive C++ framework for as-rigid-as-possible (ARAP) mesh deformation |
 | [human2robot-manipulability-domain-adaptation](https://github.com/annareithmeir/human2robot-manipulability-domain-adaptation) | Domain adaptation for transferring human manipulability ellipsoids to robot manipulators with ICP (Master's thesis) |
+| [ProteinStructurePredictionWithMultitaskLearning](https://github.com/annareithmeir/ProteinStructurePredictionWithMultitaskLearning) | Bachelor's thesis: LSTMs, CNNs, and multi-task learning to predict 3D protein structure (Bachelor's thesis) |
 
 ## Publications
 
@@ -40,6 +40,9 @@ Currently, I develop physics-inspired test-time adaptive DL algorithms for medic
 **2022**
 - **Anna Reithmeir**, Luis Figueredo, Sami Haddadin. *Human-to-Robot Manipulability Domain Adaptation with Parallel Transport and Manifold-Aware ICP.* IROS 2022. [arXiv](https://arxiv.org/abs/2208.07588) · [code](https://github.com/annareithmeir/human2robot-manipulability-domain-adaptation)
 
+## Patents
+
+- **Anna Reithmeir**, R. Wilde. *Method and System for Viewing Virtual Elements.* U.S. Patent 20220129079, published 28.04.2022. Assignee: Siemens Aktiengesellschaft.
 
 ## Tech stack
 
