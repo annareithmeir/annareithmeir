@@ -1,14 +1,14 @@
 ## Hi there, I'm Anna Reithmeir 👋
 
-**PhD Candidate in Informatics at TUM and Munich Center for Machine Learning** with a background in computer vision, robotics, and parallel programming. 
-Currently developing physics-inspired and test-time adaptive DL methods for patient-specific medical image registration.
+Making DL-based medical image analysis physically plausible and adaptive at test time.
+**PhD Candidate in Informatics @ TUM / Munich Center for Machine Learning**, with a background in computer vision, robotics, and parallel programming.
 
 ## Tech stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-147AA6?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-2E5FCE?style=flat-square&logo=cplusplus&logoColor=white)
+![C++ C](https://img.shields.io/badge/C++/C-2E5FCE?style=flat-square&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-5847D6?style=flat-square&logo=gnubash&logoColor=white)
 
 **Machine Learning & Computer Vision**
@@ -21,19 +21,20 @@ Currently developing physics-inspired and test-time adaptive DL methods for pati
 
 **MLOps**
 
-![TensorBoard](https://img.shields.io/badge/TensorBoard-D1480C?style=flat-square&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-C98C00?style=flat-square&logo=weightsandbiases&logoColor=white)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-D1480C?style=flat-square&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-1B8A5A?style=flat-square&logo=git&logoColor=white)
-![Slurm](https://img.shields.io/badge/Slurm-6FA82E?style=flat-square&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-8FB52E?style=flat-square&logo=pytest&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0E8C7F?style=flat-square&logo=linux&logoColor=white)
+![Slurm](https://img.shields.io/badge/Slurm-6FA82E?style=flat-square&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/OpenMP-2FA84F?style=flat-square&logoColor=white)
 ![MPI](https://img.shields.io/badge/MPI-12A398?style=flat-square&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-4E9E2E?style=flat-square&logoColor=white)
 ![3D Slicer](https://img.shields.io/badge/3D_Slicer-3FAE7C?style=flat-square&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-8FB52E?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-17A673?style=flat-square&logo=githubcopilot&logoColor=white)
 
 
 ## Selected projects
